@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/me"
+        android:id="@+id/myself"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+
+    <item android:title="@string/my_family"
+        android:id="@+id/my_family"
+        android:icon="@drawable/ic_baseline_family_restroom_24"/>
+
+
+    <item android:title="@string/my_friends"
+        android:id="@+id/my_friends"
+        android:icon="@drawable/ic_baseline_people_24"/>
+</menu>
